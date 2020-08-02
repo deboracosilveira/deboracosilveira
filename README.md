@@ -9,7 +9,7 @@
 <p> 🚀 I’m currently studying at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
-    target="blank"
+    target="_blank"
   >Trybe
   </a>  to become a Full-Stack Developer by Februar 2021</p>
 
@@ -19,13 +19,13 @@
   <a
     href="https://www.linkedin.com/in/deboracosilveira/" 
     alt="LinkedIn"
-    target="blank"
+    target="_blank"
   >LinkedIn
   </a> | 
   <a
     href="mailto:deboracosilveira@gmail.com" 
     alt="email"
-    target="blank"
+    target="_blank"
   >
   <a
     href="https://twitter.com/debscosilveira" 
