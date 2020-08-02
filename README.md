@@ -1,7 +1,18 @@
-<p align="right">
-  <img src="https://github.com/deboracosilveira/deboracosilveira/blob/master/.github/assets/octocat-debs.png" width="100%"
-  alt="Débora Silveira" />
-  <br>
+<img src="https://github.com/deboracosilveira/deboracosilveira/blob/master/.github/assets/octocat-debs.png" width="40%"
+  alt="Débora Silveira" align="right" /><h3>
+Hello, I'm Débora!</h3>
+<p>
+  JavaScript | ReactJS | Redux | Hooks | HTML | CSS | Bootsrap | Jest
+</p>
+<p>
+  🌍 Global citizen living in Brazil
+</p>
+<p> 👩🏽‍💻 Front-End Developer</p>
+<p> 🚀 I’m currently studying at Trybe to become a Full-Stack Developer by Februar 2021</p>
+
+### Find me
+
+<p align="center">
   <a
     href="https://www.linkedin.com/in/deboracosilveira/" 
     alt="LinkedIn"
@@ -19,15 +30,4 @@
     target="blank"
   >Twitter
   </a>
-
-<h3 align="left">
-  Hello, I'm Débora!
-</h3>
-<p align="left">
-  JavaScript | ReactJS | Redux | Hooks | HTML | CSS | Bootsrap | Jest
-</p>
-<p align="left">
-  🌍 Global citizen living in Brazil
-</p>
-<p align="left"> 👩🏽‍💻 Front-End Developer</p>
-<p align="left"> 🚀 I’m currently studying at Trybe to become a Full-Stack Developer by Februar 2021</p>
+  </p>
