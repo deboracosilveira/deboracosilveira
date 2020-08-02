@@ -31,6 +31,13 @@
     target="blank"
   >Twitter
   </a> -->
+  
+  <a
+    href="https://www.linkedin.com/in/deboracosilveira/" 
+    alt="LinkedIn"
+  ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/debscosilveira)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/deboracosilveira/)
   </p>
