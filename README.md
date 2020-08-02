@@ -14,21 +14,6 @@
 
 <h4>Find me</h4>
 
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/deboracosilveira/" 
-    alt="LinkedIn"
-  >LinkedIn
-  </a> | 
-  <a
-    href="mailto:deboracosilveira@gmail.com" 
-    alt="email"
-  >E-mail
-  </a> | 
-  <a
-    href="https://twitter.com/debscosilveira" 
-    alt="Twitter"
-    target="blank"
-  >Twitter
-  </a>
-  </p>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboracosilveira/)](https://www.linkedin.com/in/deboracosilveira/)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/debscosilveira)](https://twitter.com/debscosilveira)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboracosilveira@gmail.com)](mailto:deboracosilveira@gmail.com)
