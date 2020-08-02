@@ -15,7 +15,7 @@
 <h4>Find me</h4>
 
 <p align="left">
-  <a
+<!--   <a
     href="https://www.linkedin.com/in/deboracosilveira/" 
     alt="LinkedIn"
   >LinkedIn
@@ -30,5 +30,7 @@
     alt="Twitter"
     target="blank"
   >Twitter
-  </a>
+  </a> -->
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/debscosilveira)](https://twitter.com/debscosilveira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboracosilveira/)](https://www.linkedin.com/in/deboracosilveira/)
   </p>
