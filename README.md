@@ -18,7 +18,7 @@ Hello, I'm Débora!</h3>
     alt="LinkedIn"
     target="blank"
   >LinkedIn
-  </a>
+  </a> | 
   <a
     href="mailto:deboracosilveira@gmail.com" 
     alt="email"
