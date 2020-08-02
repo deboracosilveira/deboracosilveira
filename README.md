@@ -23,7 +23,8 @@
   <a
     href="mailto:deboracosilveira@gmail.com" 
     alt="email"
-  >
+  >E-mail
+  </a> | 
   <a
     href="https://twitter.com/debscosilveira" 
     alt="Twitter"
