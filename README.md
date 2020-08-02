@@ -1,4 +1,4 @@
-<img src="https://github.com/deboracosilveira/deboracosilveira/blob/master/.github/assets/octocat-debs.png" width="40%"
+<img src="https://github.com/deboracosilveira/deboracosilveira/blob/master/.github/assets/octocat-debs.png" width="35%"
   alt="Débora Silveira" align="right" /><h3>
 Hello, I'm Débora!</h3>
 <p>
@@ -12,7 +12,7 @@ Hello, I'm Débora!</h3>
 
 ### Find me
 
-<p align="center">
+<p align="left">
   <a
     href="https://www.linkedin.com/in/deboracosilveira/" 
     alt="LinkedIn"
