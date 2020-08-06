@@ -5,7 +5,7 @@
 <p> 🌍 Global citizen living in Brazil!</p>
 <p> 📷 Photographer in my spare time...</p>
 <p> 👩🏽‍💻 Front-End Developer:</p>
-<p> JavaScript | ReactJS | Redux | Hooks | HTML | CSS | Bootstrap | Jest | RTL </p>
+<p> JavaScript | ReactJS | Redux | Hooks | RTL | HTML | CSS | Bootstrap | Figma</p>
 <p> 🚀 I’m currently studying at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
