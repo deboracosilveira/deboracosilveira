@@ -15,5 +15,4 @@
 <h4>Find me</h4>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboracosilveira/)](https://www.linkedin.com/in/deboracosilveira/)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/debscosilveira)](https://twitter.com/debscosilveira)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboracosilveira@gmail.com)](mailto:deboracosilveira@gmail.com)
