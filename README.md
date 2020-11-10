@@ -4,8 +4,8 @@
 <h3>Hi, I'm Débora! 🤘🏽</h3>
 <p> 🌍 Global citizen living in Brazil!</p>
 <p> 📷 Photographer in my spare time...</p>
-<p> 👩🏽‍💻 Front-End Developer:</p>
-<p> JavaScript | ReactJS | Redux | Hooks | RTL | HTML | CSS | Bootstrap | Figma</p>
+<p> 👩🏽‍💻 Software Developer:</p>
+<p> JavaScript | ReactJS | Jest | HTML | CSS | Material-UI | SQL | MongoDB | NodeJS | ExpressJS | SonarQube | CI/CD | Scrum</p>
 <p> 🚀 I’m currently studying at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
