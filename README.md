@@ -10,7 +10,7 @@
     href="https://www.betrybe.com/" 
     alt="Trybe"
   >Trybe
-  </a>  to become a Full-Stack Developer by March 2021!</p>
+  </a>  to become a Full-Stack Developer by February 2021!</p>
 
 <h4>Find me</h4>
 
