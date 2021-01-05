@@ -3,14 +3,19 @@
 
 <h3>Hi, I'm Débora! 🤘🏽</h3>
 <p> 🌍 Global citizen living in Brazil!</p>
-<p> 📷 Photographer in my spare time...</p>
-<p> 👩🏽‍💻 Software Developer:</p>
-<p> JavaScript | ReactJS | Jest | HTML | CSS | Material-UI | SQL | MongoDB | NodeJS | ExpressJS | SonarQube | CI/CD | Scrum</p>
-<p> 🚀 I’m currently studying at <a
+<p> 📷 Photographer in my spare time</p>
+<p> 💛 Community founder and co-organizer at <a
+    href="https://www.linkedin.com/company/elas-codam/" 
+    alt="Elas Codam"
+  >Elas Codam
+  </a></p>
+  <p> 🚀 Student at <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
   >Trybe
-  </a>  to become a Full-Stack Developer by February 2021!</p>
+  </a></p>
+<p> 👩🏽‍💻 Software Developer:</p>
+<p> JavaScript | ReactJS | Jest | HTML | CSS | Material-UI | SQL | MongoDB | NodeJS | ExpressJS | SonarQube | CI/CD | Scrum</p>
 
 <h4>Find me</h4>
 
