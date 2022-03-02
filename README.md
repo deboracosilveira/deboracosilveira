@@ -15,7 +15,7 @@
   >Trybe
   </a> Student</p>
 <p> 👩🏽‍💻 Software Developer:</p>
-<p> JavaScript | TypeScript | ReactJS | Jest | HTML | CSS | Material-UI | SQL | MongoDB | NodeJS | ExpressJS | SonarQube | CI/CD | Scrum</p>
+<p>HTML | CSS | JavaScript | TypeScript | React | Ruby on Rails | NodeJS | ExpressJS | Postgres | SQL | MongoDB | Scrum</p>
 
 <h4>Find me</h4>
 
