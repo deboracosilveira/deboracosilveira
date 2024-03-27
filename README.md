@@ -3,19 +3,15 @@
 
 <h3>Hi, I'm Débora! 🤘🏽</h3>
 <p> 🌍 Global citizen living in Brazil!</p>
-<p> 📷 Photographer in my spare time</p>
+<p> 📷🪵 Photographer and woodworker in my spare time</p>
 <p> 💛 Community founder and co-organizer at <a
     href="https://www.linkedin.com/company/elas-codam/" 
     alt="Elas Codam"
   >Elas Codam
   </a></p>
-  <p> 🚀 <a
-    href="https://www.betrybe.com/" 
-    alt="Trybe"
-  >Trybe
-  </a> Student</p>
-<p> 👩🏽‍💻 Software Developer:</p>
-<p>HTML | CSS | JavaScript | TypeScript | React | Ruby on Rails | NodeJS | ExpressJS | Postgres | SQL | MongoDB | Scrum</p>
+<p> 🎓 Software Architecture Specialization at <a href="https://www.fiap.com.br/" alt="FIAP Website">FIAP</a></p>
+<p> 👩🏽‍💻 Software Engineer:</p>
+<p>JavaScript | TypeScript | React | Python | Django | Ruby on Rails | NodeJS | Pandas | Docker | AWS | K8s | Terraform | Postgres | SQL | MongoDB | Scrum</p>
 
 <h4>Find me</h4>
 
